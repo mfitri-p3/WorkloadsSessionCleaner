@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Linq;
 
-namespace ProcessCleaner
+namespace WorkloadsSessionCleaner
 {
     class Program()
     {
